@@ -1,0 +1,20 @@
+<?php 
+$rq_head ="sensor: 1
+country: BO
+brand: samsung
+version: 2.3.1
+ratio: 1080*1920
+language: es
+ticket: sHp2r312otmCpnGns3mCqJhovNiBiouVurqja7S1i8u8sIptinazy4SpdWK0dYqekLC4z3-dhMy7vY1rv7h6262jra6KZM3XjZSKo7-Ik2ubfrCUi4RzoQ
+meid: 98db61bf3d0b6ae2
+lat: -17.841553
+lng: -63.170296
+os: android
+cpu: 1
+bh: 1";
+
+
+
+
+$sign="e6797779fc1f43762f642908a6cfc9565b8eb9e8f69276dd61e23f4fd10f38ca";
+?>
